@@ -185,6 +185,7 @@
     <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb337697"/>
     <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb337698"/>
     <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb337699"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb338977"/>
     <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSi2603"/>
     <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSl10018"/>
   </ore:Aggregation>
@@ -197,6 +198,6 @@
         <foaf:homepage rdf:resource="http://www.sub.uni-hamburg.de"/>
       </foaf:Agent>
     </dct:creator>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pipeline="tag:dehmel.digital,2022:Pipeline" xmlns:c="http://www.w3.org/ns/xproc-step" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:dehmel="http://dehmel.digital/ns" xmlns:xs="http://www.w3.org/2001/XMLSchema">2022-10-12T12:39:15.46+02:00</dct:modified></ore:ResourceMap>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pipeline="tag:dehmel.digital,2022:Pipeline" xmlns:c="http://www.w3.org/ns/xproc-step" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:dehmel="http://dehmel.digital/ns" xmlns:xs="http://www.w3.org/2001/XMLSchema">2023-02-26T20:15:02.43+01:00</dct:modified></ore:ResourceMap>
 
 </rdf:RDF>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dct="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <ore:Aggregation rdf:about="http://id.dehmel.digital/korrespondenz/laske">
+    <skos:prefLabel>Korrespondenz Dehmel / Laske-Schüler</skos:prefLabel>
+    <ore:isDescribedBy rdf:resource="http://id.dehmel.digital/korrespondenz/laske/about"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb13005"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb13006"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb16624"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb16626"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb18227"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb18229"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb18231"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb18235"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb18236"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb18238"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb18239"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313094"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313095"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313096"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313097"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313098"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313099"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313100"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313101"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313102"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313103"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313104"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313105"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313106"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313107"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313108"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313109"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313110"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313111"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313112"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313113"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313114"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313115"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313116"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313117"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313118"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313119"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313120"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313121"/>
+    <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb313122"/>
+  </ore:Aggregation>
+
+  <ore:ResourceMap rdf:about="http://id.dehmel.digital/korrespondenz/laske/about">
+    <ore:describes rdf:resource="http://id.dehmel.digital/korrespondenz/laske"/>
+    <dct:creator>
+      <foaf:Agent>
+        <foaf:name>Staats- und Universitätsbibliothek Hamburg</foaf:name>
+        <foaf:homepage rdf:resource="http://www.sub.uni-hamburg.de"/>
+      </foaf:Agent>
+    </dct:creator>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pipeline="tag:dehmel.digital,2022:Pipeline" xmlns:c="http://www.w3.org/ns/xproc-step" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:dehmel="http://dehmel.digital/ns" xmlns:xs="http://www.w3.org/2001/XMLSchema">2023-02-26T20:15:02.49+01:00</dct:modified></ore:ResourceMap>
+
+</rdf:RDF>
