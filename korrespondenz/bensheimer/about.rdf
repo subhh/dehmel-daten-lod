@@ -2,7 +2,7 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dct="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
   <ore:Aggregation rdf:about="http://id.dehmel.digital/korrespondenz/bensheimer">
-    <skos:prefLabel>Korrespondenz Dehmel / Bensheimer</skos:prefLabel>
+    <skos:prefLabel>Dehmel / Bensheimer</skos:prefLabel>
     <ore:isDescribedBy rdf:resource="http://id.dehmel.digital/korrespondenz/bensheimer/about"/>
     <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb334677"/>
     <ore:aggregates rdf:resource="http://id.dehmel.digital/brief/HANSb337573"/>
@@ -695,6 +695,6 @@
         <foaf:homepage rdf:resource="http://www.sub.uni-hamburg.de"/>
       </foaf:Agent>
     </dct:creator>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pipeline="tag:dehmel.digital,2022:Pipeline" xmlns:c="http://www.w3.org/ns/xproc-step" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:dehmel="http://dehmel.digital/ns" xmlns:xs="http://www.w3.org/2001/XMLSchema">2023-03-09T12:33:48.87+01:00</dct:modified></ore:ResourceMap>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pipeline="tag:dehmel.digital,2022:Pipeline" xmlns:c="http://www.w3.org/ns/xproc-step" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:dehmel="http://dehmel.digital/ns" xmlns:xs="http://www.w3.org/2001/XMLSchema">2023-03-12T09:40:29.35+01:00</dct:modified></ore:ResourceMap>
 
 </rdf:RDF>
