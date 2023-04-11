@@ -20,7 +20,7 @@
                     <foaf:homepage rdf:resource="http://www.sub.uni-hamburg.de"/>
                   </foaf:Agent>
                 </dct:creator>
-                <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-04-11T13:25:06.79+02:00</dct:modified>
+                <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-04-11T14:16:55.43+02:00</dct:modified>
               </ore:ResourceMap>
               <dehmel:Metadata rdf:about="http://data.dehmel.digital/brief/HANSb336200/metadata.rdf">
                 <dct:format rdf:resource="https://www.iana.org/assignments/media-types/application/rdf+xml"/>
