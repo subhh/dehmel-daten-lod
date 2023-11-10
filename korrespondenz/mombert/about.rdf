@@ -527,6 +527,6 @@
         <foaf:homepage rdf:resource="http://www.sub.uni-hamburg.de"/>
       </foaf:Agent>
     </dct:creator>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pipeline="tag:dehmel.digital,2022:Pipeline" xmlns:c="http://www.w3.org/ns/xproc-step" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:dehmel="http://dehmel.digital/ns" xmlns:xs="http://www.w3.org/2001/XMLSchema">2023-04-14T10:33:36.09+02:00</dct:modified></ore:ResourceMap>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pipeline="tag:dehmel.digital,2022:Pipeline" xmlns:c="http://www.w3.org/ns/xproc-step" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:dehmel="http://dehmel.digital/ns" xmlns:xs="http://www.w3.org/2001/XMLSchema">2023-11-10T17:29:11.58+01:00</dct:modified></ore:ResourceMap>
 
 </rdf:RDF>

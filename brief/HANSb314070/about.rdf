@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pipeline="tag:dehmel.digital,2022:Pipeline" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:c="http://www.w3.org/ns/xproc-step" xmlns:dct="http://purl.org/dc/terms/" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:dehmel="http://id.dehmel.digital/vocab#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+              <ore:Aggregation rdf:about="http://id.dehmel.digital/brief/HANSb314070">
+                <ore:isDescribedBy rdf:resource="http://id.dehmel.digital/brief/HANSb314070/about"/>
+                <ore:aggregates rdf:resource="http://data.dehmel.digital/brief/HANSb314070/metadata.rdf"/>
+                <ore:aggregates rdf:resource="http://data.dehmel.digital/brief/HANSb314070/content.xml"/>
+                <svcs:has_service>
+                  <svcs:Service rdf:about="https://iiif.sub.uni-hamburg.de/object/HANSb314070/manifest">
+                    <dct:conformsTo rdf:resource="https://iiif.io/api/presentation"/>
+                    <skos:prefLabel>IIIF Manifest</skos:prefLabel>
+                  </svcs:Service>
+                </svcs:has_service>
+              </ore:Aggregation>
+              <ore:ResourceMap rdf:about="http://id.dehmel.digital/brief/HANSb314070/about">
+                <ore:describes rdf:resource="http://id.dehmel.digital/brief/HANSb314070"/>
+                <dct:creator>
+                  <foaf:Agent>
+                    <foaf:name>Staats- und Universitätsbibliothek Hamburg</foaf:name>
+                    <foaf:homepage rdf:resource="http://www.sub.uni-hamburg.de"/>
+                  </foaf:Agent>
+                </dct:creator>
+                <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-11-10T17:28:59.63+01:00</dct:modified>
+              </ore:ResourceMap>
+              <dehmel:Metadata rdf:about="http://data.dehmel.digital/brief/HANSb314070/metadata.rdf">
+                <dct:format rdf:resource="https://www.iana.org/assignments/media-types/application/rdf+xml"/>
+              </dehmel:Metadata>
+              <dehmel:Text rdf:about="http://data.dehmel.digital/brief/HANSb314070/content.xml">
+                <dct:format rdf:resource="https://www.iana.org/assignments/media-types/application/tei+xml"/>
+              </dehmel:Text>
+            </rdf:RDF>
+          
